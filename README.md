@@ -4,6 +4,15 @@
 
 Simple bookmarking web app allow users to share thier bookmarks
 
+## Extra features
+
+* Authentication and Authorization using PHP sessions
+* User can decide to share or not their bookmarks on public
+* Search through bookmarks
+* Deletion of Bookmarks
+* Protected pages
+* Using Context API
+
 ## Demo
 
 https://github.com/Malek-O/405_finallab_bookmarks/assets/116006550/599bc965-f2ff-4f61-86f8-0a2dddad6b03
